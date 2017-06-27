@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="line_color">#DFDFDF</color>
+    <color name="default_title_tv_color">#333333</color>
+
+    <color name="custom_button_press_color">#EAEAEA</color>
+    <color name="custom_button_text_color">#27C6C6</color>
+
+</resources>
